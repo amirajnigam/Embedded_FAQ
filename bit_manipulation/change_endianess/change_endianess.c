@@ -1,3 +1,5 @@
+//Task: swap the bytes in 32bit Integer Variable.
+
 #include <stdio.h>
 #include <stdint.h>    
 
@@ -12,7 +14,6 @@ uint32_t change_endianess(uint32_t num){
     return res; 
 
 }
-
 
 int main(void)
 {

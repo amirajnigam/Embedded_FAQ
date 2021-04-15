@@ -2,6 +2,7 @@
 
 int revrse_number(int n){
     int remainder, num = 0;
+    
     while(n){
         remainder = n%10;
         num = num * 10 + remainder;

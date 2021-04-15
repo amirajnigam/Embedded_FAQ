@@ -1,4 +1,4 @@
-//Task: Clear all bits from MSB to the ith bit
+//Task: Clear all bits from LSB to the ith bit
 
 #include<stdio.h>
 #include <stdint.h>

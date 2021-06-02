@@ -1,4 +1,6 @@
 //Task: Clear all bits from MSB to the ith bit
+//input = 00001010
+//Output = 00000010
 
 #include<stdio.h>
 #include <stdint.h>

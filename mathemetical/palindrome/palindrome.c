@@ -27,6 +27,6 @@ int main(void)
     return 0;
 }
 
-Logic: 
-1. check if the reverse of a number is equal to the original revrse_number
-2. To reverse take reminder, add remainder to num and divide num by 10
+// Logic: 
+// 1. check if the reverse of a number is equal to the original revrse_number
+// 2. To reverse take reminder, add remainder to num and divide num by 10

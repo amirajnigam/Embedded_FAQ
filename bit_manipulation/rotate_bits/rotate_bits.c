@@ -5,6 +5,7 @@
 #include <stdint.h>
 #define NO_BITS 8
 
+
 uint8_t left_rotation(uint8_t num, uint8_t pos){
     return ((num << pos) | num >> (NO_BITS - pos));
 }

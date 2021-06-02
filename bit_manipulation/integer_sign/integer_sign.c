@@ -2,19 +2,26 @@
 
 #include<stdio.h>
 
-int main(void)
-{
-    int d;
-    int sign;
 
+void check_sign(int d){
+    
+    int sign;
     sign = ((d > 0) - (d < 0));
 
     if(sign == 1)
         printf("Positive number");
     else if (sign == -1)
-        printf("Negative NUmber");
+        printf("Negative Number");
     else
         printf("Number is Zero");
+}
+
+int main(void)
+{
+    int d;
+    d = -10;
+
+    check_sign(d);
     
     return 0;
 }

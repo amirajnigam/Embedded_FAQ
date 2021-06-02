@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    char str[] = "AAABBB";
+    char str[] = "AABB";
     int len = strlen(str);
     char new_str[len];
     int j = 1;

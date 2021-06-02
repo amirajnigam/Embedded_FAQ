@@ -1,4 +1,6 @@
 //Task: Clear all bits from LSB to the ith bit
+//Input: 00001010
+//Output: 00001000
 
 #include<stdio.h>
 #include <stdint.h>

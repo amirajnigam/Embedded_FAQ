@@ -1,7 +1,7 @@
 //Input: 10000110
 //Output:01100001
 
-#include<stdio.h>
+#include <stdio.h>
 #include <stdint.h>
 
 void print_binary(uint8_t num, int n ){

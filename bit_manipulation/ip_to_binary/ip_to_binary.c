@@ -1,3 +1,5 @@
+//Generally asked in Newtwork companies coding round
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
